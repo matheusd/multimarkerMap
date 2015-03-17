@@ -1,0 +1,10 @@
+<?php
+
+$_CONFIG = [
+
+    //your desired password for adding new items
+    'password' => '123',
+    
+    //your google maps api key
+    'mapsApi' => ':)',
+];
